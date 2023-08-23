@@ -1,5 +1,6 @@
 # CameraStreamTest
-Test Application for Reading Multiple RTSP Streams using Opencv 4.5.5
+Test Application for Reading Multiple RTSP Streams using Opencv 4.5.5 using Intel Threaded Building Blocks (Intel TBB) concurrent queues
+
 # Libararies 
 Opencv 4.5.5
 Intel Threaded Building Blocks (Intel TBB)
